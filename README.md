@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuragmishra646/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/anuragmishra646/leetcode-questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/anuragmishra646/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
 ## Greedy
 |  |
