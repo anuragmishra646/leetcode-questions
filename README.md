@@ -65,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
+## Math
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anuragmishra646/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anuragmishra646/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
