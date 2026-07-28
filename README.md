@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuragmishra646/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/anuragmishra646/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anuragmishra646/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anuragmishra646/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Array
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/anuragmishra646/leetcode-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anuragmishra646/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuragmishra646/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anuragmishra646/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
