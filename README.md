@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuragmishra646/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuragmishra646/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anuragmishra646/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/anuragmishra646/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1446-consecutive-characters](https://github.com/anuragmishra646/leetcode-questions/tree/master/1446-consecutive-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
