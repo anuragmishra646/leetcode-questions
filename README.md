@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/anuragmishra646/leetcode-questions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/anuragmishra646/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuragmishra646/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/anuragmishra646/leetcode-questions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/anuragmishra646/leetcode-questions/tree/master/0841-keys-and-rooms) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/anuragmishra646/leetcode-questions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/anuragmishra646/leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/anuragmishra646/leetcode-questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/anuragmishra646/leetcode-questions/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/anuragmishra646/leetcode-questions/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/anuragmishra646/leetcode-questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
