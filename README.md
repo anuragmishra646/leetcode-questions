@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/anuragmishra646/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/anuragmishra646/leetcode-questions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anuragmishra646/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anuragmishra646/leetcode-questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anuragmishra646/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anuragmishra646/leetcode-questions/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anuragmishra646/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/anuragmishra646/leetcode-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1025-divisor-game) |
 ## Enumeration
 |  |
