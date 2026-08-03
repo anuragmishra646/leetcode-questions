@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1406-stone-game-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anuragmishra646/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1406-stone-game-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/anuragmishra646/leetcode-questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
 | ------- |
