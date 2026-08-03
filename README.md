@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/anuragmishra646/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/anuragmishra646/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/anuragmishra646/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anuragmishra646/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anuragmishra646/leetcode-questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anuragmishra646/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/anuragmishra646/leetcode-questions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/anuragmishra646/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/anuragmishra646/leetcode-questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anuragmishra646/leetcode-questions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/anuragmishra646/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/anuragmishra646/leetcode-questions/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/anuragmishra646/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/anuragmishra646/leetcode-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
