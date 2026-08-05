@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/anuragmishra646/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/anuragmishra646/leetcode-questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anuragmishra646/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuragmishra646/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/anuragmishra646/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/anuragmishra646/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuragmishra646/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anuragmishra646/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
