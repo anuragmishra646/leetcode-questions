@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anuragmishra646/leetcode-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anuragmishra646/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anuragmishra646/leetcode-questions/tree/master/0048-rotate-image) |
+| [0326-power-of-three](https://github.com/anuragmishra646/leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anuragmishra646/leetcode-questions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/anuragmishra646/leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anuragmishra646/leetcode-questions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
 ## Sliding Window
