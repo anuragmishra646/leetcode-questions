@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anuragmishra646/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuragmishra646/leetcode-questions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/anuragmishra646/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anuragmishra646/leetcode-questions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/anuragmishra646/leetcode-questions/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/anuragmishra646/leetcode-questions/tree/master/0200-number-of-islands) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anuragmishra646/leetcode-questions/tree/master/0035-search-insert-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
