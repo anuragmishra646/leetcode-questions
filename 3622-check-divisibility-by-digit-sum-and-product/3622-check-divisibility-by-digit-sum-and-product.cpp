@@ -8,11 +8,8 @@ public:
         while(x!=0){
             int y = x%10;
             k +=y;
-            x/=10;
-        }while(n!=0){
-            int y = n%10;
             m *=y;
-            n/=10;
+            x/=10;
         }int sum = m+k;
         if((h%sum)==0){
             return true;
