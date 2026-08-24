@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuragmishra646/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1927-sum-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anuragmishra646/leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anuragmishra646/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/anuragmishra646/leetcode-questions/tree/master/0520-detect-capital) |
 | [1446-consecutive-characters](https://github.com/anuragmishra646/leetcode-questions/tree/master/1446-consecutive-characters) |
+| [1927-sum-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anuragmishra646/leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1927-sum-game) |
 ## Enumeration
 |  |
 | ------- |
