@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anuragmishra646/leetcode-questions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/anuragmishra646/leetcode-questions/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/anuragmishra646/leetcode-questions/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/anuragmishra646/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/anuragmishra646/leetcode-questions/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/anuragmishra646/leetcode-questions/tree/master/0724-find-pivot-index) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anuragmishra646/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/anuragmishra646/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
