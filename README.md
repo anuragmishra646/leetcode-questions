@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anuragmishra646/leetcode-questions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/anuragmishra646/leetcode-questions/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/anuragmishra646/leetcode-questions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anuragmishra646/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/anuragmishra646/leetcode-questions/tree/master/0542-01-matrix) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/anuragmishra646/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anuragmishra646/leetcode-questions/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anuragmishra646/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/anuragmishra646/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anuragmishra646/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anuragmishra646/leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anuragmishra646/leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
