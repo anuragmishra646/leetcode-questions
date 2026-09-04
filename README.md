@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/anuragmishra646/leetcode-questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2784-check-if-array-is-good](https://github.com/anuragmishra646/leetcode-questions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anuragmishra646/leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/anuragmishra646/leetcode-questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2784-check-if-array-is-good](https://github.com/anuragmishra646/leetcode-questions/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/anuragmishra646/leetcode-questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/anuragmishra646/leetcode-questions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/anuragmishra646/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/1260-shift-2d-grid) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/anuragmishra646/leetcode-questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anuragmishra646/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
