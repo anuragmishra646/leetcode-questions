@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/anuragmishra646/leetcode-questions/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/anuragmishra646/leetcode-questions/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/anuragmishra646/leetcode-questions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anuragmishra646/leetcode-questions/tree/master/1288-remove-covered-intervals) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anuragmishra646/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anuragmishra646/leetcode-questions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anuragmishra646/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/anuragmishra646/leetcode-questions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3904-smallest-stable-index-ii) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anuragmishra646/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anuragmishra646/leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anuragmishra646/leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
