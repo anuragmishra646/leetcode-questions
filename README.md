@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/anuragmishra646/leetcode-questions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/anuragmishra646/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anuragmishra646/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/anuragmishra646/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
