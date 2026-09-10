@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuragmishra646/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/anuragmishra646/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuragmishra646/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/anuragmishra646/leetcode-questions/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anuragmishra646/leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anuragmishra646/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/anuragmishra646/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/anuragmishra646/leetcode-questions/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/anuragmishra646/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/anuragmishra646/leetcode-questions/tree/master/0867-transpose-matrix) |
@@ -411,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/anuragmishra646/leetcode-questions/tree/master/0627-swap-sex-of-employees) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
