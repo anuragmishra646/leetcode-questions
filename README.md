@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/anuragmishra646/leetcode-questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anuragmishra646/leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anuragmishra646/leetcode-questions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/anuragmishra646/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/anuragmishra646/leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anuragmishra646/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/anuragmishra646/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/anuragmishra646/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/anuragmishra646/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/anuragmishra646/leetcode-questions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/anuragmishra646/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/anuragmishra646/leetcode-questions/tree/master/0520-detect-capital) |
 | [1446-consecutive-characters](https://github.com/anuragmishra646/leetcode-questions/tree/master/1446-consecutive-characters) |
 | [1927-sum-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1927-sum-game) |
