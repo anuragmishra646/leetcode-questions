@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anuragmishra646/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/anuragmishra646/leetcode-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anuragmishra646/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/0496-next-greater-element-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/anuragmishra646/leetcode-questions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/anuragmishra646/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
