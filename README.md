@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anuragmishra646/leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/anuragmishra646/leetcode-questions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/anuragmishra646/leetcode-questions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anuragmishra646/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/anuragmishra646/leetcode-questions/tree/master/0485-max-consecutive-ones) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anuragmishra646/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anuragmishra646/leetcode-questions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/anuragmishra646/leetcode-questions/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/anuragmishra646/leetcode-questions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/anuragmishra646/leetcode-questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/anuragmishra646/leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anuragmishra646/leetcode-questions/tree/master/0342-power-of-four) |
@@ -366,12 +368,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/anuragmishra646/leetcode-questions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/anuragmishra646/leetcode-questions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/anuragmishra646/leetcode-questions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anuragmishra646/leetcode-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anuragmishra646/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -451,4 +455,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anuragmishra646/leetcode-questions/tree/master/0836-rectangle-overlap) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anuragmishra646/leetcode-questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anuragmishra646/leetcode-questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anuragmishra646/leetcode-questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
