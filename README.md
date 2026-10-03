@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anuragmishra646/leetcode-questions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/anuragmishra646/leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/anuragmishra646/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/anuragmishra646/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/anuragmishra646/leetcode-questions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/anuragmishra646/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anuragmishra646/leetcode-questions/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/anuragmishra646/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/anuragmishra646/leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
