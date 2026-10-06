@@ -5,9 +5,11 @@ public:
         int o=0;
         for(int i=0;i<s.length();i++){
             if(s[i]=='(') o++;
-            else if( s[i]==')') { o--;
-            c++;}
+            else{
+                if(o>0) o--;
+                else c++;
+            }
         }
-        return abs(o+c);
+        return c+o;
     }
 };
