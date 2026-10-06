@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/anuragmishra646/leetcode-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anuragmishra646/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anuragmishra646/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuragmishra646/leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anuragmishra646/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1927-sum-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anuragmishra646/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/anuragmishra646/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/anuragmishra646/leetcode-questions/tree/master/0520-detect-capital) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anuragmishra646/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/anuragmishra646/leetcode-questions/tree/master/1446-consecutive-characters) |
 | [1927-sum-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anuragmishra646/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuragmishra646/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anuragmishra646/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
