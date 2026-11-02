@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/anuragmishra646/leetcode-questions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anuragmishra646/leetcode-questions/tree/master/0238-product-of-array-except-self) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/anuragmishra646/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/anuragmishra646/leetcode-questions/tree/master/0496-next-greater-element-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anuragmishra646/leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/anuragmishra646/leetcode-questions/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/anuragmishra646/leetcode-questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/anuragmishra646/leetcode-questions/tree/master/1051-height-checker) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/anuragmishra646/leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anuragmishra646/leetcode-questions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/anuragmishra646/leetcode-questions/tree/master/0412-fizz-buzz) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/anuragmishra646/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/anuragmishra646/leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/0877-stone-game) |
