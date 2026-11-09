@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anuragmishra646/leetcode-questions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/anuragmishra646/leetcode-questions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/anuragmishra646/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/anuragmishra646/leetcode-questions/tree/master/0485-max-consecutive-ones) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anuragmishra646/leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/anuragmishra646/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/anuragmishra646/leetcode-questions/tree/master/0905-sort-array-by-parity) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/anuragmishra646/leetcode-questions/tree/master/1338-reduce-array-size-to-the-half) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anuragmishra646/leetcode-questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -484,4 +487,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/anuragmishra646/leetcode-questions/tree/master/0113-path-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
