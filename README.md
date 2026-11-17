@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/anuragmishra646/leetcode-questions/tree/master/0841-keys-and-rooms) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/anuragmishra646/leetcode-questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anuragmishra646/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -499,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anuragmishra646/leetcode-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
