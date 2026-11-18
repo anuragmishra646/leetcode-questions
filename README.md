@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/anuragmishra646/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/anuragmishra646/leetcode-questions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anuragmishra646/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/anuragmishra646/leetcode-questions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/anuragmishra646/leetcode-questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/anuragmishra646/leetcode-questions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/anuragmishra646/leetcode-questions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
